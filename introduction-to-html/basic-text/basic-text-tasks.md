@@ -4,30 +4,16 @@ _MDN Web Docs Learning Pathway to Front-End Development_
 This aim of this skill test is to assess whether you've understood our HTML text fundamentals article.
 ## Task 1
 > ### In this task we want you to:
-> - [] Mark up the provided HTML using semantic heading and paragraph elements.
-### How the test start
->  
->
->
+> - [x] Mark up the provided HTML using semantic heading and paragraph elements.
 
 ## Task 2
-### How the test start
->  
->
->
 > ### In this task we want you to:
-> - [] 
-> - []
-
+> - [x] Turn the first un-marked up list into an unordered list. 
+> - [x] Turn the second one into an ordered list.
 
 ## Task 3
-### How the test start
->  
->
->
 > ### In this task we want you to:
-> - [] 
-> - []
+> - [] use some inline elements to mark up a couple of appropriate words with strong importance and a couple with emphasis.
 
 ### The result I'd desire to
 - [] Structure all these tasks in just one example of page
