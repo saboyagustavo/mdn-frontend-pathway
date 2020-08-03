@@ -4,8 +4,8 @@ _MDN Web Docs Learning Pathway to Front-End Development_
 ## Task 3
 The aim of the tasks is to demonstrate an understanding of hyperlinks, as covered in the Creating hyperlinks lesson in Learn Web Development on MDN.
 > ### In this task we want you to:
-> - [] Take the existing paragraphs with poorly-written link text, and rewrite them so that they have good link text.
-> - []     Add a warning to any links that need a warning added.
+> - [x] Take the existing paragraphs with poorly-written link text, and rewrite them so that they have good link text.
+> - [x]     Add a warning to any links that need a warning added.
 ### How the test start
 >  We do lots of work with Narwhals. To find out more about this work, click here.
 >  You can email our support team if you have any more questions — click here to do so.
