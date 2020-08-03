@@ -13,7 +13,7 @@ This aim of this skill test is to assess whether you've understood our HTML text
 
 ## Task 3
 > ### In this task we want you to:
-> - [] use some inline elements to mark up a couple of appropriate words with strong importance and a couple with emphasis.
+> - [x] use some inline elements to mark up a couple of appropriate words with strong importance and a couple with emphasis.
 
 ### The result I'd desire to
 - [] Structure all these tasks in just one example of page
