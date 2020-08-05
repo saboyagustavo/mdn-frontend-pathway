@@ -12,16 +12,16 @@ I shall take the content for the homepage of a bird watching website and add str
 > - [X] Download the starting point assets.
 - [x] Rearrange the assets in appropriate folders.
 > ### The page needs to have
-> - [] A header spanning the full width of the site containing the main title for the page, the site logo, and the navigation menu. The title and logo appear side by side once styling is applied, and the navigation appears below those two items.
-> - [] A main content area containing two columns — a main block to contain the welcome text, and a sidebar to contain image thumbnails.
-> - [] A footer containing copyright information and credits.
+> - [x] A header spanning the full width of the site containing the main title for the page, the site logo, and the navigation menu. The title and logo appear side by side once styling is applied, and the navigation appears below those two items.
+> - [x] A main content area containing two columns — a main block to contain the welcome text, and a sidebar to contain image thumbnails.
+> - [x] A footer containing copyright information and credits.
 > ### Add a suitable wrapper for
-> - [] Header
-> - [] Navigation menu
-> - [] Main content
-> - [] Welcome text
-> - [] Image sidebar
-> - [] Footer
+> - [x] Header
+> - [x] Navigation menu
+> - [x] Main content
+> - [x] Welcome text
+> - [x] Image sidebar
+> - [x] Footer
 > ### Should also do
-> - [] Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
+> - [x] Apply the provided CSS to the page by adding another <link> element just below the existing one provided at the start.
 
