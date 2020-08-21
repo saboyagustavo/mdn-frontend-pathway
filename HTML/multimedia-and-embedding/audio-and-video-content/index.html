@@ -4,13 +4,12 @@
 <head>
     <meta charset="utf-8" />
     <title>Video Content</title>
+    <script src="./scripts/main.js"></script>
 </head>
 
 <body>
     <h1>The cuttest rabbit video ever</h1>
-    <video id="bunny" controls width="400" height="400"
-    loop muted preload="auto" 
-    poster="./media/poster.png">
+    <video id="bunny" controls width="400" height="400" loop muted preload="auto" poster="./media/poster.png">
         <source src="./media/rabbit320.webm" type="video/webm">
         <source src="./media/rabbit320.mp4" type="video/mp4">
         <p>Maybe your browser doesn't suppot videos in HTML.
@@ -18,7 +17,13 @@
             in this <a href="./media/rabbit320.webm" target="_blank" title="cuttest rabbit online">link</a>.</p>
     </video>
     <h1>The noisiest guitar clip ever</h1>
-    <audio></audio>
+    <audio id="guitar" controls preload="auto">
+        <source src="./media/viper.mp3" type="audio/mp3">
+        <source src="./media/viper.ogg" type="audio/ogg">
+        <p>Maybe your browser doesn't suppot videos in HTML.
+            I'm really sorry for that, but you also can watch the video
+            in this <a href="./media/viper.ogg" target="_blank" title="Noisiest guitar ever">link</a>.</p>
+    </audio>
 </body>
 
 </html>
