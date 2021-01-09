@@ -1,0 +1,9 @@
+body {
+    padding: 25px;
+    text-align: center;
+}
+h1 {
+    font-family: 'Georgia';
+    font-weight: bold;
+    margin-bottom: 50px;
+}

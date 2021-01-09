@@ -15,12 +15,12 @@ _A clear structured module-sectioned course for learning front-end web developme
 
 ### Getting started with the Web
 
-- [x] _1.5 – 2 hours lessons_
+- [x] _1.5 – 2 hours [lessons and activtivities](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)_
 
 This first step was focused on explain briefly how the web works; how to setup a work environment, how to deal with files, and differences between pages and websites. Also introduced the core of web development, teaching how to scaffold a page using HTML, CSS and JS.
 
  <details>
-     <summary><em>Introductory module for complete beginners at <a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">MDN pathway to front-end development</em></a>.
+     <summary><em>Introductory module for complete beginners.</em>
      </summary>
 <ol>
 	<li>☑️ Getting started with the Web overview</li>
@@ -36,7 +36,7 @@ This first step was focused on explain briefly how the web works; how to setup a
 
 ### HTML — Structuring the Web 
 
-- [ ] _35 – 50 hours lessons and exercises_
+- [ ] _35 – 50 hours [lessons and exercises](https://developer.mozilla.org/en-US/docs/Learn/HTML)_
 
 Module that explains how build websites by its very fundamental structure — HTML. Taught how organize semantically web content by declaring block or inline elements; like paragraphs, lists, heading, link, image, multimedia player, form, etc.
 
@@ -45,7 +45,7 @@ Module that explains how build websites by its very fundamental structure — HT
 The aim of these steps was learn how to structure documents using semantic tags, and how to work out the structure of a simple page.
 
  <details>
-     <summary>First stage in HTML module.
+     <summary>First stage</a> in HTML module.
      </summary>
 <ol>
 	<li>☑️ Introduction to HTML overview</li>
@@ -64,11 +64,12 @@ The aim of these steps was learn how to structure documents using semantic tags,
 #### Multimedia and embedding 
 
 <details>
-    <summary>Second stage in <a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding">HTML module</a></summary>.
+    <summary>Second stage in HTML module</summary>.
     <ol>
         <li>☑️ Multimedia and embedding overview</li>
         <li>☑️ Images in HTML</li>
         <li>☑️ Video and audio content</li>
+        <li>☑️ From object to iframe — other embedding technologies</li>
     </ol>
 </details>
 
