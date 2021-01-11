@@ -12,7 +12,7 @@ You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree
 
 ### Skill test: [HTML images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML/Test_your_skills:_HTML_images)
 
-This aim of this skill test is to assess understanding of how Images work in HTML.
+> This aim of this skill test is to assess understanding of how Images work in HTML.
 
 #### HTML images 1:
 
@@ -34,3 +34,15 @@ This aim of this skill test is to assess understanding of how Images work in HTM
 > In this final task you are provided with both a full-featured image  and some caption text. What you need to do here is:
 >
 > - [x] add elements that  will associate the image with the caption.
+
+### Skill test: [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding)
+
+> The aim of this skill test is to assess whether the understanding of [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content) and [From object to iframe — other embedding technologies](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies) articles.
+
+#### Multimedia and embedding 1
+
+> In this task we want you to embed a simple audio file onto the page. You need to:
+>
+> - [x] Add the path to the audio file to an appropriate attribute to embed it on the page. The audio is called `audio.mp3`, and ~~it is~~  it must be in a folder inside a current folder called `media`.
+> - [x] Add an attribute to make browsers display some default controls.
+> - [x] Add some appropriate fallback text for browsers that don't support `<audio>`.
