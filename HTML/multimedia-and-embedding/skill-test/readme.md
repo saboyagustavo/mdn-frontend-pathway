@@ -24,4 +24,13 @@ This aim of this skill test is to assess understanding of how Images work in HTM
 
 #### HTML images 2:
 
-> -   [x] In this task you already have a full-featured image, but we'd like you to add a tooltip that appears when the image is moused over. You should put some appropriate information into the tooltip.
+> In this task **you already have a full-featured image**, but we'd like you to:
+>
+> -   [x]  add a tooltip that appears when the image is moused over; 
+> -   [x]  you should put some appropriate information into the tooltip.
+
+#### HTML images 3
+
+> In this final task you are provided with both a full-featured image  and some caption text. What you need to do here is:
+>
+> - [x] add elements that  will associate the image with the caption.
