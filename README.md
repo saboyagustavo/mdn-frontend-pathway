@@ -1,4 +1,4 @@
-# MDN Front-end Web Developer :fox_face:
+# MDN Front-end Web Developer🦖 
 
 _A clear structured module-sectioned course for learning front-end web development at [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)_
 
@@ -67,9 +67,16 @@ The aim of these steps was learn how to structure documents using semantic tags,
     <summary>Second stage in HTML module</summary>.
     <ol>
         <li>☑️ Multimedia and embedding overview</li>
-        <li>☑️ Images in HTML</li>
+        <li>☑️ Images in HTML
+            <ul>
+            HTML images skill test
+            <li>✔️ Task 1 - basic image embed </li>
+        	<li>Task 2 - basic image title</li>
+        	<li>Task 3 - image and caption</li>
+            </ul>
+        </li>
         <li>☑️ Video and audio content</li>
-        <li>☑️ From object to iframe — other embedding technologies</li>
-    </ol>
+    <li>☑️ From object to iframe — other embedding technologies</li>
+</ol>
 </details>
 
