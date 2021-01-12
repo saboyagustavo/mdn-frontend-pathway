@@ -46,3 +46,23 @@ You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree
 > - [x] Add the path to the audio file to an appropriate attribute to embed it on the page. The audio is called `audio.mp3`, and ~~it is~~  it must be in a folder inside a current folder called `media`.
 > - [x] Add an attribute to make browsers display some default controls.
 > - [x] Add some appropriate fallback text for browsers that don't support `<audio>`.
+
+#### Multimedia and embedding 2
+
+> In this task we want you to mark up a slightly more complex video player, with multiple sources, subtitles, and other features besides. You need to:
+>
+> - [x] Add an attribute to make browsers display some default controls.
+>
+> - [x] Add some appropriate fallback text for browsers that don't support `<video>`.
+>
+> - [x] Add multiple sources, containing the paths to the video files. The files are called `video.mp4` and `video.webm`, and are in a folder inside the current folder called `media`.
+>
+> - [x] Let the browser know in advance what video formats the sources  point to, so it can make an informed choice of which one to download  ahead of time.
+>
+> - [x] Give the `<video>` a width and height equal to its intrinsic size (320 by 240 pixels).
+>
+> - [x] Make the video muted by default.
+>
+> - [x] Display the text tracks contained in the `media` folder, in a file called `subtitles_en.vtt`, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
+>
+> - [x] Make sure the readers can identify the subtitle language when they use the default controls.
