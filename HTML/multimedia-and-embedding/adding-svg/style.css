@@ -1,0 +1,55 @@
+body {
+    padding: 20px;
+    text-align: center;
+    background: whitesmoke;
+    width: 80%;
+    margin: 0 auto;
+}
+h1 {
+    color: crimson;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    letter-spacing: 4pt;
+}
+main {
+    padding: 10px;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+}
+h2 {
+    width: 60%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-transform: lowercase;
+    color: tomato;
+    background-color: white;
+    padding: 5px;
+    border-radius: 3.5px;
+    box-shadow: 5px 7px salmon;
+}
+
+h2:hover {
+    border: 2px solid silver;
+    box-shadow: 10px 3.5px white;
+    cursor: pointer;
+}
+
+img {
+    height: 140px;
+    width: 270px;
+}
+svg {
+    height: 140px;
+    width: 270px;
+}
+iframe {
+    border: none;
+}
