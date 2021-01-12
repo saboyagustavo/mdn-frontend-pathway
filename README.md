@@ -84,7 +84,7 @@ The aim of these steps was learn how to structure documents using semantic tags,
                 <li> Task 3 - embed object and iframe</li>
                 </ul>
         </li>
-        <li>☑️ <a href="./multimedia-and-embedding/adding-svg">Adding vector graphics to the Web</a></li>
+        <li>☑️ <a href="https://github.com/saboyagustavo/mdn-frontend-pathway/tree/master/HTML/multimedia-and-embedding/adding-svg">Adding vector graphics to the Web</a></li>
         <li> Responsive images</li>
 </ol>
 </details>
