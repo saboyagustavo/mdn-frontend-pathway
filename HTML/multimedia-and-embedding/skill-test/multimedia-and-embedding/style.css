@@ -6,7 +6,9 @@ body {
 main {
     display: flex;
     align-items: flex-start;
-    justify-content: space-evenly;
+    justify-content: space-between;
+    flex-flow: row wrap;
+    width: 100%;
 }
 section {
     padding: 30px;

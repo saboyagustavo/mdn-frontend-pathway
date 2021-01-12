@@ -1,21 +1,21 @@
-# MDN Front-end Web Developer🦖 
+# MDN Front-end Web Developer🦖
 
 _A clear structured module-sectioned course for learning front-end web development at [MDN Learning Area](https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer)_
 
 ## Subjects
 
-- Basic setup and learning how to learn
-- Web standards and best practices (such as accessibility and cross-browser compatibility)
-- HTML
-- CSS
-- JavaScript
-- Web forms
-- Testing and accessibility
-- Modern client-side tooling (which includes client-side JavaScript frameworks)
+-   Basic setup and learning how to learn
+-   Web standards and best practices (such as accessibility and cross-browser compatibility)
+-   HTML
+-   CSS
+-   JavaScript
+-   Web forms
+-   Testing and accessibility
+-   Modern client-side tooling (which includes client-side JavaScript frameworks)
 
 ### Getting started with the Web
 
-- [x] _1.5 – 2 hours [lessons and activtivities](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)_
+-   [x] _1.5 – 2 hours [lessons and activtivities](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web)_
 
 This first step was focused on explain briefly how the web works; how to setup a work environment, how to deal with files, and differences between pages and websites. Also introduced the core of web development, teaching how to scaffold a page using HTML, CSS and JS.
 
@@ -34,9 +34,9 @@ This first step was focused on explain briefly how the web works; how to setup a
 </ol>
  </details>
 
-### HTML — Structuring the Web 
+### HTML — Structuring the Web
 
-- [ ] _35 – 50 hours [lessons and exercises](https://developer.mozilla.org/en-US/docs/Learn/HTML)_
+-   [ ] _35 – 50 hours [lessons and exercises](https://developer.mozilla.org/en-US/docs/Learn/HTML)_
 
 Module that explains how build websites by its very fundamental structure — HTML. Taught how organize semantically web content by declaring block or inline elements; like paragraphs, lists, heading, link, image, multimedia player, form, etc.
 
@@ -61,7 +61,7 @@ The aim of these steps was learn how to structure documents using semantic tags,
 </ol>
  </details>
 
-#### Multimedia and embedding 
+#### Multimedia and embedding
 
 <details>
     <summary>Second stage in HTML module</summary>.
@@ -69,14 +69,21 @@ The aim of these steps was learn how to structure documents using semantic tags,
         <li>☑️ Multimedia and embedding overview</li>
         <li>☑️ Images in HTML
             <ul>
-            HTML images skill test
-            <li>✔️ Task 1 - basic image embed </li>
-        	<li>Task 2 - basic image title</li>
-        	<li>Task 3 - image and caption</li>
+            HTML images skill test ✔️
+            <li> Task 1 - basic image embed </li>
+        	<li> Task 2 - basic image title</li>
+        	<li> Task 3 - image and caption</li>
             </ul>
         </li>
         <li>☑️ Video and audio content</li>
-    <li>☑️ From object to iframe — other embedding technologies</li>
+        <li>☑️ From object to iframe — other embedding technologies
+                <ul>
+                Embedding technologies skill test ✔️
+                <li> Task 1 - basic audio embed </li>
+                <li> Task 2 - mark up a video player</li>
+                <li> Task 3 - embed object and iframe</li>
+                </ul>
+        </li>
+        <li> Adding vector graphics to the Web</li>
 </ol>
 </details>
-

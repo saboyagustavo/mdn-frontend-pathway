@@ -5,8 +5,8 @@ _MDN Web Docs Learning Pathway to Front-End Development_
 ## Challenges from the following lessons:
 
 -   [x] [Images in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML)
--   [ ] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
--   [ ] [From object to iframe](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
+-   [x] [Video and audio content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
+-   [x] [From object to iframe](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Other_embedding_technologies)
 
 You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree/master/html/multimedia-and-embedding/tasks/) by Chris Mills.
 
@@ -66,3 +66,11 @@ You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree
 > - [x] Display the text tracks contained in the `media` folder, in a file called `subtitles_en.vtt`, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
 >
 > - [x] Make sure the readers can identify the subtitle language when they use the default controls.
+
+#### Multimedia and embedding 3
+
+> For this final task you have two tasks to do:
+>
+> - [x] Embed a PDF into the page. The PDF is called `mypdf.pdf`, and is contained in the `media` folder.
+>
+> - [x] Go to a sharing site like YouTube or Google Maps, and embed a video or other media item into the page.
