@@ -85,6 +85,6 @@ The aim of these steps was learn how to structure documents using semantic tags,
                 </ul>
         </li>
         <li>☑️ <a href="https://github.com/saboyagustavo/mdn-frontend-pathway/tree/master/HTML/multimedia-and-embedding/adding-svg">Adding vector graphics to the Web</a></li>
-        <li> Responsive images</li>
+        <li>☑️ Responsive images</li>
 </ol>
 </details>

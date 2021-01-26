@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="stylesheet" href="style.css" />
+        <title>HTML responsive IMG Example</title>
+    </head>
+    <body>
+        <header>
+            <h1>Header</h1>
+        </header>
+        <main>
+            <section>
+                <h2>responsive image</h2>
+                <figure>
+                <picture>
+                    <source media="(min-width:1000px)" srcset="./media/my-img-large.jpg 1200w" />
+                    <source media="(min-width:800px)" srcset="./media/my-img-medium.jpg 800w" />
+                    <source media="(min-width:600px)" srcset="./media/my-img-small.jpg 600w" />
+                    <source media="(max-width:599px)" srcset="./media/my-img-tiny.jpg 480w" />
+                        <img
+                            src="./media/my-img-large.jpg"
+                            alt="A man staring at computers on his desk"
+                        />
+                        <figcaption>
+                            source:
+                            <a
+                                href="https://pixabay.com/pt/photos/escrit%C3%B3rio-trabalho-recep%C3%A7%C3%A3o-932926/"
+                                target="_blank"
+                                >pixabay</a
+                            >
+                        </figcaption>
+                    </figure>
+                </picture>
+            </section>
+        </main>
+    </body>
+</html>

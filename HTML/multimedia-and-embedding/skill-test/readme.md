@@ -26,14 +26,14 @@ You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree
 
 > In this task **you already have a full-featured image**, but we'd like you to:
 >
-> -   [x]  add a tooltip that appears when the image is moused over; 
-> -   [x]  you should put some appropriate information into the tooltip.
+> -   [x] add a tooltip that appears when the image is moused over;
+> -   [x] you should put some appropriate information into the tooltip.
 
 #### HTML images 3
 
-> In this final task you are provided with both a full-featured image  and some caption text. What you need to do here is:
+> In this final task you are provided with both a full-featured image and some caption text. What you need to do here is:
 >
-> - [x] add elements that  will associate the image with the caption.
+> -   [x] add elements that will associate the image with the caption.
 
 ### Skill test: [Multimedia and embedding](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content/Test_your_skills:_Multimedia_and_embedding)
 
@@ -43,34 +43,44 @@ You can also check the [MDN Solutions](https://github.com/mdn/learning-area/tree
 
 > In this task we want you to embed a simple audio file onto the page. You need to:
 >
-> - [x] Add the path to the audio file to an appropriate attribute to embed it on the page. The audio is called `audio.mp3`, and ~~it is~~  it must be in a folder inside a current folder called `media`.
-> - [x] Add an attribute to make browsers display some default controls.
-> - [x] Add some appropriate fallback text for browsers that don't support `<audio>`.
+> -   [x] Add the path to the audio file to an appropriate attribute to embed it on the page. The audio is called `audio.mp3`, and ~~it is~~ it must be in a folder inside a current folder called `media`.
+> -   [x] Add an attribute to make browsers display some default controls.
+> -   [x] Add some appropriate fallback text for browsers that don't support `<audio>`.
 
 #### Multimedia and embedding 2
 
 > In this task we want you to mark up a slightly more complex video player, with multiple sources, subtitles, and other features besides. You need to:
 >
-> - [x] Add an attribute to make browsers display some default controls.
+> -   [x] Add an attribute to make browsers display some default controls.
 >
-> - [x] Add some appropriate fallback text for browsers that don't support `<video>`.
+> -   [x] Add some appropriate fallback text for browsers that don't support `<video>`.
 >
-> - [x] Add multiple sources, containing the paths to the video files. The files are called `video.mp4` and `video.webm`, and are in a folder inside the current folder called `media`.
+> -   [x] Add multiple sources, containing the paths to the video files. The files are called `video.mp4` and `video.webm`, and are in a folder inside the current folder called `media`.
 >
-> - [x] Let the browser know in advance what video formats the sources  point to, so it can make an informed choice of which one to download  ahead of time.
+> -   [x] Let the browser know in advance what video formats the sources point to, so it can make an informed choice of which one to download ahead of time.
 >
-> - [x] Give the `<video>` a width and height equal to its intrinsic size (320 by 240 pixels).
+> -   [x] Give the `<video>` a width and height equal to its intrinsic size (320 by 240 pixels).
 >
-> - [x] Make the video muted by default.
+> -   [x] Make the video muted by default.
 >
-> - [x] Display the text tracks contained in the `media` folder, in a file called `subtitles_en.vtt`, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
+> -   [x] Display the text tracks contained in the `media` folder, in a file called `subtitles_en.vtt`, when the video is playing. You must explicitly set the type as subtitles, and the subtitle language to English.
 >
-> - [x] Make sure the readers can identify the subtitle language when they use the default controls.
+> -   [x] Make sure the readers can identify the subtitle language when they use the default controls.
 
 #### Multimedia and embedding 3
 
 > For this final task you have two tasks to do:
 >
-> - [x] Embed a PDF into the page. The PDF is called `mypdf.pdf`, and is contained in the `media` folder.
+> -   [x] Embed a PDF into the page. The PDF is called `mypdf.pdf`, and is contained in the `media` folder.
 >
-> - [x] Go to a sharing site like YouTube or Google Maps, and embed a video or other media item into the page.
+> -   [x] Go to a sharing site like YouTube or Google Maps, and embed a video or other media item into the page.
+
+### Responsive Images - Active Learning
+
+> For [this active learning](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images#active_learning_implementing_your_own_responsive_images), we're expecting you to be brave and go it alone ... mostly. We want you to implement your own suitable art directed narrow screen/wide screen shot using <code><picture></code>, and a resolution switching example that uses <code>srcset</code>.
+
+> -   [x] Write some simple HTML to contain your code (use not-responsive.html as a starting point, if you like).
+>-   [x] Find a nice wide screen landscape image with some kind of detail contained in it somewhere. Create a web-sized version of it using a graphics editor, then crop it to show a smaller part that zooms in on the detail, and create a second image (about 480px wide is good for this).
+> -   [x] Use the <code><picture></code> element to implement an art direction picture switcher!
+> -   [x] Create multiple image files of different sizes, each showing the same picture.
+> -   [x] Use <code>srcset/size</code> to create a resolution switcher example, either to serve the same size image at different resolutions, or different image sizes at different viewport widths.
